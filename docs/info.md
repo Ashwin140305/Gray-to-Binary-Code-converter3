@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes 4 bit input and converts it into gray code 4 bit output
 
 ## How to test
 
