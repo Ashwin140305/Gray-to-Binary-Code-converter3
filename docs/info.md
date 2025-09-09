@@ -27,4 +27,4 @@ Run multiple test cases to ensure correct conversion.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Using LEDs to display binary numbers and gray code output
